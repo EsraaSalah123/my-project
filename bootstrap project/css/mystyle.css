@@ -1,0 +1,123 @@
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #ebff00c2;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    padding-bottom: 0px;
+    padding-top: o.6rem;
+    height: 100%;
+    background-color: #2c414c;
+}
+.navbar-light .navbar-brand:hover{
+    color: #ebff00c2;
+}
+.profileIcon{
+    display: inline-block;
+    margin-right: 25px;
+    color: #607d8b;
+    width: 5%;
+}
+.intrests{
+    font-size: 70;
+    font-weight: 400;
+    border-radius: 0px;
+}
+#status{
+    border: 1px solid grey;
+    padding: .5rem;
+}
+.hinty{
+    color: dimgray;
+    font-size: 11pt; 
+    font-weight: 300;
+    letter-spacing: 1pt;
+}
+.postBtn{
+    background-color: #4d636f;
+    color: white;
+    font-weight: 200;
+    letter-spacing: 2pt;
+    border: 0px;
+    padding: 7px 13px 7px 13px;
+}
+.postBtn:hover{
+    box-shadow: 0 0.125rem .9rem rgba(0,0,0,0.800)
+}
+.accReq{
+    background-color: #94cf96;
+    color: white;
+    border: 0px;
+    padding: 7px 13px 7px 13px;
+    width: 50%;
+}
+.remReq{
+    background-color: #f88e86;
+    color: white;
+    border: 0px;
+    padding: 7px 13px 7px 13px;
+    width: 50%;
+}
+.eventBtn{
+    background-color: #dfe5e8; 
+    color: black; 
+    width: 100%;
+    font-weight: 300;
+    letter-spacing: 2pt;
+    border: 0px;
+    padding: 7px 13px 7px 13px;
+}
+.eventBtn:hover{
+    box-shadow: 0 0.125rem .9rem rgba(0,0,0,.300)
+}
+.inline-b{
+    display: inline-block;
+    padding: 1rem;
+}
+.postUserName{
+    width: 80%
+}
+.userProfile{
+    max-width: 10%;
+    
+}
+.postTime{
+    width: 10%;
+    padding: 0px;
+}
+.postText{
+    font-size: .9rem;
+}
+.postImgs{
+    max-height: 300px;
+}
+.postImg {
+    max-height: inherit;
+    display: inline-block;
+    width: auto;
+    height: 100%;
+}
+.footer{
+    background-color: #4d636f;
+    height: 6rem;
+    color: white;
+    padding-top: .6rem
+}
+.copyRight{
+    background-color: #374750;
+    height: 3rem;
+    color: white;
+    padding-top: .6rem
+}
+
+.paner{
+    width: 100%;
+    max-height: -webkit-fill-available;
+}
